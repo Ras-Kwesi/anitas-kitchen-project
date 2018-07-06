@@ -2,7 +2,7 @@
   background-image: url("../assets/backgrounds/landing.jpg");
   text-align: center;
   height: 460px;
-  background-repeat: : no-repeat;
+  background-repeat: no-repeat;
   background-size: cover;
 
 }
@@ -10,5 +10,5 @@
 
 }
 #fastfood-details{
-    float: left;
+    margin: none;
 }
