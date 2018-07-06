@@ -1,6 +1,14 @@
 .header{
   background-image: url("../assets/backgrounds/landing.jpg");
   text-align: center;
-  height: 450px;
+  height: 460px;
+  background-repeat: : no-repeat;
+  background-size: cover;
 
+}
+.container {
+
+}
+#fastfood-details{
+    float: left;
 }
