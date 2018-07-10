@@ -4,7 +4,7 @@
 ### By Kwesi Makonnen
 
 ## Description
-#### The website helps customers know what food and drinks are offered at Anita's Kitchen and the delivery specifics for those hwho prefer that to visiting. 
+#### The website helps customers know what food and drinks are offered at Anita's Kitchen and the delivery specifics for those who prefer that to visiting. 
 
 ### Technologies Used
 #### HTML
