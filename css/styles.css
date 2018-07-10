@@ -77,10 +77,14 @@
   background-color: #fd7e14;
   height: 370px;
 }
+.burger {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 
-.footers{
+.allfooters{
   padding-left: 250px;
-
-
 
 }
