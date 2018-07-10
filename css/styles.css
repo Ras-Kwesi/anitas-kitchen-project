@@ -1,12 +1,86 @@
-.header{
+.header {
   background-image: url("../assets/backgrounds/landing.jpg");
   text-align: center;
   height: 460px;
   background-repeat: no-repeat;
-  background-size: cover;
-
+  background-size: cover
 }
-#backgroundimg2{
+
+.header-text {
+  font-family: times;
+  font-size: 20px;
+}
+
+.bld {
+  margin: 0%
+  padding: 0%
+}
+
+.happytime {
+  width: 350px;
+}
+
+#drinkspic {
+  box-shadow: 0px 0px 29px 1px rgba(0,0,0.75)
+}
+
+#fastfoodpic1 {
+  box-shadow: 0px 0px 29px 1px rgba(0,0,0.75)
+}
+
+#backgroundimg2 {
   background-image: url("../assets/backgrounds/foodsBg.jpg");
   height: 450px;
+  background-attachment: fixed;
+  background-position: 50% 50%;
+}
+.cnt {
+  background-color: white;
+  font-family: sans-serif;
+  font-size: 20px;
+}
+
+#fdcr {
+  padding: 20px;
+  border-width: thick;
+}
+.subscribepic {
+  background-image: url("../assets/backgrounds/subscribe.jpg");
+  height: 250px;
+  margin-top: 80px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.btn-orange {
+  background-color: #F06B00
+}
+
+.subscription-entry {
+  float: left;
+  margin-left: 500px;
+
+}
+.subscribebtn {
+  float: right;
+}
+
+.form-group {
+  width: 65%;
+  height: 20px;
+
+}
+#InputEmail1 {
+  opacity: 30%;
+}
+
+.orng-background {
+  background-color: #fd7e14;
+  height: 370px;
+}
+
+.footers{
+  padding-left: 250px;
+
+
+
 }
