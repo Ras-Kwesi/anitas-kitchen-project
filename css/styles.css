@@ -45,6 +45,21 @@
   padding: 20px;
   border-width: thick;
 }
+
+.feedback-sctn {
+
+}
+
+.customer-words {
+  padding: 90px;
+}
+
+
+.cstma {
+  text-align: center;
+}
+
+
 .subscribepic {
   background-image: url("../assets/backgrounds/subscribe.jpg");
   height: 250px;
@@ -77,6 +92,8 @@
 .orng-background {
   background-color: #fd7e14;
   height: 370px;
+  width: 100%;
+  float: left;
 }
 .burger {
   display: block;
